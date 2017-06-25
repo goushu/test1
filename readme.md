@@ -2,5 +2,4 @@
 
 
  - feature-A
- - fix-B
- - feature-C
+ - it should be this like that
